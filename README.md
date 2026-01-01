@@ -1,16 +1,19 @@
-# ![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K.EXE/refs/heads/main/ascii_vert_transparent.png)
+![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K.EXE/refs/heads/main/ascii_vert_transparent.png)
 
-<!--
-**N2K-EXE/N2K-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Passionné d'OSINT & Cybersécurité
 
-Here are some ideas to get you started:
+Je m'intéresse à la **veille et aux enquêtes numériques** grâce à l'OSINT (Open Source Intelligence) et à la cybersécurité.  
+J'aime analyser des données publiques pour identifier des tendances, suivre des traces numériques et améliorer la sécurité en ligne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Domaines d'expertise
+- Techniques avancées OSINT
+- Hacking éthique et cybersécurité
+- Analyse de données et investigations numériques
+
+## 🌱 En apprentissage
+- Threat intelligence
+- Automatisation et outils de veille
+
+## 📫 Contact
+- GitHub : [N2K-EXE](https://github.com/N2K-EXE)
+- Email : ton.email@example.com
