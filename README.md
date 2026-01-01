@@ -1,19 +1,13 @@
 ![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K.EXE/refs/heads/main/ascii_vert_transparent.png)
 
-# Passionné d'OSINT & Cybersécurité
+# 💻 Passionné d'informatique
 
-Je m'intéresse à la **veille et aux enquêtes numériques** grâce à l'OSINT (Open Source Intelligence) et à la cybersécurité.  
-J'aime analyser des données publiques pour identifier des tendances, suivre des traces numériques et améliorer la sécurité en ligne.
+Je code tout ce qui me passionne et ce qui m'inspire.  
+ou tout autre projet qui pique ma curiosité !
 
-## 🔭 Domaines d'expertise
-- Techniques avancées OSINT
-- Hacking éthique et cybersécurité
-- Analyse de données et investigations numériques
-
-## 🌱 En apprentissage
-- Threat intelligence
-- Automatisation et outils de veille
+---
 
 ## 📫 Contact
-- GitHub : [N2K-EXE](https://github.com/N2K-EXE)
-- Email : ton.email@example.com
+
+- **GitHub :** [N2K.EXE](https://github.com/N2K-EXE) 
+- **Guns :** [N2K.EXE](https://guns.lol/noneed2know)
