@@ -1,4 +1,4 @@
-![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K-EXE/refs/heads/main/ascii_vert_transparent.png)
+![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K-EXE/refs/heads/main/preview.png)
 
 # 💻 Passionné d'informatique
 
