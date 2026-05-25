@@ -1,9 +1,7 @@
 ![N2K](https://raw.githubusercontent.com/N2K-EXE/N2K-EXE/refs/heads/main/preview.png)
 
-# 💻 Passionné d'informatique
-
-Je code tout ce qui me passionne et ce qui m'inspire.  
-ou tout autre projet qui pique ma curiosité !
+Je code tout ce qui me passe par la tête
+Simple petit truc, me prend pas pour ton petit
 
 ---
 
