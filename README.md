@@ -9,4 +9,4 @@ Simple petit truc, me prend pas pour ton petit
 ## 📫 Contact
 
 - **GitHub :** [N2K.EXE](https://github.com/N2K-EXE) 
-- **Guns :** [N2K.EXE](https://guns.lol/noneed2know)
+- **Guns :** [N2K.EXE](https://guns.lol/n2k18)
